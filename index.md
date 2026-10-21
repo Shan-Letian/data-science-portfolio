@@ -29,7 +29,7 @@ I am a Master's student in Financial Technology at the University of Macau (Full
 
 **Visualization 1: Climate Change Analysis**
 <!-- 请将括号里的链接替换为你上传到 data-science-project 仓库的图片 RAW 链接 -->
-![Surface Temperature Heatmap](替换为热力图的图片链接)
+![Surface Temperature Heatmap](https://github.com/Shan-Letian/data-science-project/blob/main/temperature_change.png?raw=true)
 *Figure 1: A heatmap visualizing global surface temperature anomalies from 1880 to 2015. The clear transition from blue to red indicates a significant and accelerating warming trend over recent decades.*
 
 **Visualization 2: Socioeconomic Impact Analysis**
