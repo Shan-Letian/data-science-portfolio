@@ -34,7 +34,7 @@ I am a Master's student in Financial Technology at the University of Macau (Full
 
 **Visualization 2: Socioeconomic Impact Analysis**
 <!-- 请将括号里的链接替换为你上传到 data-science-project 仓库的图片 RAW 链接 -->
-![Education vs Salary Violin Plot]([替换为小提琴图的图片链接](https://github.com/Shan-Letian/data-science-project/blob/main/salary_violin.png))
+![Education vs Salary Violin Plot]([替换为小提琴图的图片链接](https://github.com/Shan-Letian/data-science-project/blob/main/salary_violin.png?raw=true))
 *Figure 2: A violin plot demonstrating the impact of education on annual salary and weekly working hours. It reveals that higher education levels correlate with significantly higher median salaries and wider salary distributions.*
 
 **Key Finding:** 
